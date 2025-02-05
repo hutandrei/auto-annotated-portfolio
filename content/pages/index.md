@@ -47,6 +47,33 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: QuoteSection
+    quote: |
+      *Iacov 1 :27 "Religia curată şi neîntinată
+       înaintea lui Dumnezeu, Tatăl nostru, este să cercetăm pe orfani şi pe 
+      văduve în necazurile lor şi să ne păzim neîntinaţi de lume. "*
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        fontWeight": 500
+        textAlign: center
+      title:
+        fontWeight": 400
+        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
