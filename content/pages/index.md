@@ -52,7 +52,7 @@ sections:
       *Iacov 1 :27 "Religia curată şi neîntinată
        înaintea lui Dumnezeu, Tatăl nostru, este să cercetăm pe orfani şi pe 
       văduve în necazurile lor şi să ne păzim neîntinaţi de lume. "*
-    name: Johnna Doe
+    name: 'Iacov 1:27'
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
