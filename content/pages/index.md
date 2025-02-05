@@ -49,7 +49,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/aspecte_20110528_1455382526.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
