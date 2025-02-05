@@ -14,10 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Casa vindecării
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: |-
+      Suntem o asociație creștină care se ocupă cu reabilitarea 
+      persoanelor care au crescut în mediul stradal. Cu o experiență de peste 
+      25 de ani, dorim cu ajutorul lui Dumnezeu să oferim șansa la un mediu 
+      creștin, reabilitare și încadrare în societate celor care doresc dar nu 
+      pot să fie schimbați.
     styles:
       self:
         height: auto
