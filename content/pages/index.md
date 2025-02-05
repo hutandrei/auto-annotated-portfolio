@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-e
     backgroundSize: full
     title: Casa vindecării
     subtitle: |-
