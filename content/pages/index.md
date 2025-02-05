@@ -59,10 +59,8 @@ sections:
       Dacă vrei să te implici financiar, apasă butonul de mai jos.
 
 
-
-
-      <form action="https\://www\.paypal.com/donate" method="post"
-      target="\_top">
+      <form name="donate" netlify action="https\://www\.paypal.com/donate"
+      method="post" target="\_top">
 
       <input type="hidden" name="hosted\_button\_id" value="QLUSPTBD4T4CE" />
 
