@@ -53,7 +53,7 @@ sections:
        înaintea lui Dumnezeu, Tatăl nostru, este să cercetăm pe orfani şi pe 
       văduve în necazurile lor şi să ne păzim neîntinaţi de lume. "*
     name: 'Iacov 1:27'
-    title: Product Marketing Manager at Acme
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
