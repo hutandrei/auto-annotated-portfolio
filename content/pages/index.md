@@ -4,7 +4,7 @@ title: Home
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/freepik__upload__72068.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
