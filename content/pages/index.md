@@ -77,7 +77,7 @@ sections:
 
     actions:
       - type: Button
-        label: Try it now
+        label: Donate
         altText: ''
         url: '/https://www.paypal.com/donate/?hosted_button_id=8C3YJUG6SLM9Q'
         showIcon: true
