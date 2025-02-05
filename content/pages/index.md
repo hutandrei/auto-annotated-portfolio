@@ -55,8 +55,28 @@ sections:
       elementId: ''
   - type: CtaSection
     title: Cum te poti implica
-    text: |
+    text: >+
       Dacă vrei să te implici financiar, apasă butonul de mai jos.
+
+
+
+
+      <form action="https\://www\.paypal.com/donate" method="post"
+      target="\_top">
+
+      <input type="hidden" name="hosted\_button\_id" value="QLUSPTBD4T4CE" />
+
+      <input type="image"
+      src="https\://www\.paypalobjects.com/en\_US/i/btn/btn\_donateCC\_LG.gif"
+      border="0" name="submit" title="PayPal - The safer, easier way to pay
+      online!" alt="Donate with PayPal button" />
+
+      <img alt="" border="0"
+      src="https\://www\.paypal.com/en\_US/i/scr/pixel.gif" width="1" height="1"
+      />
+
+      </form>
+
     actions:
       - type: Button
         label: Try it now
