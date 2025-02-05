@@ -54,7 +54,7 @@ sections:
       caption: Caption of the image
       elementId: ''
   - type: CtaSection
-    title: CUm te poti implica
+    title: Cum te poti implica
     text: |
       Dacă vrei să te implici financiar, apasă butonul de mai jos.
     actions:
