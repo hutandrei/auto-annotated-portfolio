@@ -55,9 +55,8 @@ sections:
       elementId: ''
   - type: CtaSection
     title: CUm te poti implica
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Dacă vrei să te implici financiar, apasă butonul de mai jos.
     actions:
       - type: Button
         label: Try it now
