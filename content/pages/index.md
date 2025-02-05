@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-e
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/freepik__upload__72068.png
