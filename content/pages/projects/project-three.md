@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Visine si Cirese
 colors: colors-a
 date: '2017-06-22'
 client: ''
