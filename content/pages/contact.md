@@ -113,15 +113,7 @@ sections:
         title: ''
         subtitle: ''
         text: ''
-        actions:
-          - type: Link
-            label: CodePen
-            altText: ''
-            url: 'https://codepen.io/'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
