@@ -54,13 +54,12 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-    text: |+
+    text: |
       ## **CUM TE POȚI IMPLICA?**
 
       ***
 
-      Dacă vrei să te implici financiar, aapsă butonul de mai jos:
-
+      Dacă vrei să te implici financiar, apasă butonul de mai jos:
   - type: CtaSection
     title: Cum te poti implica
     text: >+
