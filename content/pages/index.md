@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Casa vindecării
     subtitle: |-
       Suntem o asociație creștină care se ocupă cu reabilitarea 
