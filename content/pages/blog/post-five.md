@@ -11,7 +11,7 @@ featuredImage:
   url: /images/iepuri-1.jpg
 bottomSections:
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
