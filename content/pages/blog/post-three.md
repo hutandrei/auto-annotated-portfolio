@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: Imagini din timpul constructiei.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image3.jpg
+  url: /images/poza 048.jpg
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
