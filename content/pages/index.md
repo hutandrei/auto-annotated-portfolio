@@ -66,11 +66,16 @@ sections:
       care doresc dar nu pot să fie schimbați.</div>
 
 
-      <div style="text-align: right">```
+      <div style="text-align: right"><sup>ASOCIATIA CRESTINA CASA VINDECARII -
+      CAMPINA
 
-      ASOCIATIA CRESTINA CASA VINDECARII - CAMPINA
+      BCR COD SWIFT RNCBROBU (BIC)
 
-      ```</div>
+      RO94RNCB0208104735400001  (RON)
+
+      RO13RNCB0208104735400004 (EURO)
+
+      RO40RNCB0208104735400003  (USD)</sup></div>
 
   - type: CtaSection
     title: Cum te poti implica
