@@ -66,8 +66,8 @@ sections:
       care doresc dar nu pot să fie schimbați.</div>
 
 
-      <div style="text-align: right"><sup>ASOCIATIA CRESTINA CASA VINDECARII -
-      CAMPINA
+      <div style="text-align: right">###### <sup>ASOCIATIA CRESTINA CASA
+      VINDECARII - CAMPINA
 
       BCR COD SWIFT RNCBROBU (BIC)
 
