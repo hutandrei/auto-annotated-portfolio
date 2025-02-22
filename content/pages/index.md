@@ -42,7 +42,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 400
-        fontStyle: italic
       text:
         textAlign: left
       actions:
