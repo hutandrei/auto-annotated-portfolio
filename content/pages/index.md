@@ -54,7 +54,17 @@ sections:
       caption: Caption of the image
       elementId: ''
     text: |
-      dqdqwdwqdwqdwqdwq
+      **CUM TE POȚI IMPLICA?**
+
+      ****
+
+      **d**
+
+      ****
+
+      ****
+
+      fwefwefwe
   - type: CtaSection
     title: Cum te poti implica
     text: >+
