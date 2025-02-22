@@ -46,7 +46,7 @@ sections:
       - type: Button
         label: Doneaza
         altText: ''
-        url: 'https://www.paypal.com/donate/?hosted_button_id=8C3YJUG6SLM9Q'
+        url: /Info/
         showIcon: true
         icon: arrowRight
         iconPosition: right
