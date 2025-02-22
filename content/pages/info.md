@@ -42,6 +42,9 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: >-
+      Interviu cu Directorul Asociaţiei Creştine Casa Vindecării: Pastor Dumitru
+      Huţan
   - type: DividerSection
     styles:
       self:
