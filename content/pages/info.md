@@ -8,7 +8,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 46
 sections:
   - type: TestimonialsSection
     testimonials:
