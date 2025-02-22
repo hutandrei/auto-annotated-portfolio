@@ -154,4 +154,5 @@ bottomSections:
       text:
         textAlign: left
 ---
-qwqwqw
+
+Luna iunie în România este considerată ca un sezon al cireșelor și vișinelor. La Centrul Creștin, am început culesul și conservarea lor. 
