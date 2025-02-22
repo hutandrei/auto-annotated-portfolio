@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: Cateva din persoanele ajutate de-a lungul timpului
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: /images/photo_2016-12-02_17-34-45.jpg
   altText: Post thumbnail image
 bottomSections:
   - type: MediaGallerySection
