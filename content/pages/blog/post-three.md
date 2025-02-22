@@ -41,7 +41,7 @@ bottomSections:
         altText: Image four
         caption: Image four caption
         elementId: ''
-    colors: colors-c
+    colors: colors-f
     spacing: 16
     columns: 2
     aspectRatio: '1:1'
