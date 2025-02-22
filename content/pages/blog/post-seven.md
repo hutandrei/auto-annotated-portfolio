@@ -9,7 +9,7 @@ excerpt: >-
   La Centrul Creștin, am început culesul și conservarea lor.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: /images/photo_2017-06-23_15-34-36.jpg
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
