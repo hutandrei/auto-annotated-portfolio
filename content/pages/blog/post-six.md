@@ -14,7 +14,7 @@ featuredImage:
 bottomSections:
   - type: MediaGallerySection
     title: ''
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/photo5920395943050586541.jpg
