@@ -65,33 +65,6 @@ sections:
       șansa la un mediu creștin, reabilitare și încadrare în societate celor
       care doresc dar nu pot să fie schimbați.</div>
 
-  - type: QuoteSection
-    quote: >
-      *"Religia curată şi neîntinată înaintea lui Dumnezeu, Tatăl nostru, este
-      să cercetăm pe orfani şi pe văduve în necazurile lor şi să ne păzim
-      neîntinaţi de lume. "*
-    name: 'Iacov 1:27'
-    title: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        fontWeight": 500
-        textAlign: center
-      title:
-        fontWeight": 400
-        textAlign: center
   - type: CtaSection
     title: 'Despre noi:'
     text: |
@@ -126,6 +99,33 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: QuoteSection
+    quote: >
+      *"Religia curată şi neîntinată înaintea lui Dumnezeu, Tatăl nostru, este
+      să cercetăm pe orfani şi pe văduve în necazurile lor şi să ne păzim
+      neîntinaţi de lume. "*
+    name: 'Iacov 1:27'
+    title: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        fontWeight": 500
+        textAlign: center
+      title:
+        fontWeight": 400
+        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
