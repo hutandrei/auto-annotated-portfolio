@@ -18,7 +18,7 @@ sections:
           curata si neintinata, inaintea lui Dumnezeu, Tatal nostru, este sa
           cercetam pe orfani si pe vaduve in necazurile lor, si sa ne pazim
           neintinati de lume.” Biblia – Iacov 1:27
-        name: John Doe
+        name: ''
         title: CEO at Parks
         image:
           type: ImageBlock
