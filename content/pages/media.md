@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Empty page
+title: Media
 sections:
   - type: TextSection
     colors: colors-f
