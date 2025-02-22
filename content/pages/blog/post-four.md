@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Persoane asistate
-colors: colors-a
+colors: colors-b
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
 excerpt: Cateva din persoanele ajutate de-a lungul timpului
