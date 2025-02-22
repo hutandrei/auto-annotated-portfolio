@@ -91,7 +91,7 @@ sections:
             label: Facebook
             altText: ''
             url: 'https://www.facebook.com/CasaVindecarii/?locale=ro_RO'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             elementId: ''
