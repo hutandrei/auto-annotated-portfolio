@@ -86,7 +86,7 @@ sections:
         style: secondary
         elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     elementId: ''
     styles:
       self:
