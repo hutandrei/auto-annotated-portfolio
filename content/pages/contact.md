@@ -89,7 +89,7 @@ sections:
           elementId: ''
         actions:
           - type: Link
-            label: Twitter
+            label: Facebook
             altText: ''
             url: 'https://www.facebook.com/CasaVindecarii/?locale=ro_RO'
             showIcon: false
