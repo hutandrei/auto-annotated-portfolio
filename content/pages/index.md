@@ -78,8 +78,6 @@ sections:
       IBAN:RO94RNCB0208104735400001 (RON)RO13RNCB0208104735400004
       (EURO)RO40RNCB0208104735400003 (USD)</div>
 
-
-
   - type: CtaSection
     title: Cum te poti implica
     text: |
