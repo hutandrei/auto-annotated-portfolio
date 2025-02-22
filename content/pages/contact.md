@@ -4,9 +4,7 @@ title: Contact
 sections:
   - type: HeroSection
     title: Contact
-    subtitle: >-
-      This is my info — I'm sharing it all this with ya'll to impress you with
-      all the hard work I've done in the past f
+    subtitle: Asociația Creștină „Casa Vindecării”
     text: "Strada: Calea Doftanei nr. 112 B\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tOras: Campina\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tJudet: Prahova\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tCod Postal: 105600\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\tRomania\n\t\t\t\n\t\t\n\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t0244 333 792\t\t\n\t\n\t\n\t\n\t\t\n\t\t\t0755 888 000 | 0756 999 018 (Hutan Rut)\t\t\n\t\n\t\n\t\n\t\t\n\t\t\t[\n\t\t\thttp://www.betelcampina.com](https://web.archive.org/web/20200924202051/http://www.betelcampina.com/)\n\t\t\n\t\n\n"
     actions: []
     media:
