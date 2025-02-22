@@ -99,7 +99,7 @@ bottomSections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/photo_2017-06-23_15-34-26.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
