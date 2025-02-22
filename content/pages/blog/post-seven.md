@@ -4,7 +4,9 @@ title: Cirese si Visine
 colors: colors-b
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Luna iunie în România este considerată ca un sezon al cireșelor și vișinelor.
+  La Centrul Creștin, am început culesul și conservarea lor.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
