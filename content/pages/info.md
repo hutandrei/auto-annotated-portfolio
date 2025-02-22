@@ -118,6 +118,15 @@ sections:
       actions:
         justifyContent: flex-start
     text: >
+      Perceptele crestine, sustinute chiar si de cadrul natural de care am
+      amintit, o comunitate de oameni cu frica de Dumnezeu si mila fata de cei
+      fara un adapost sau posibilitatea croirii propriului drum in viata, au
+      adus o raza de speranta in sufletele multor tineri crescuti in orfelinate
+      care si-au gasit calea de urmat pasind in “Casa Vindecarii” – un cunoscut
+      Centru crestin de reintegrare socio-profesionala, care functioneaza la
+      Campina din anul 2008.
+
+
       O comunitate de oameni vrednici de toata lauda sub patronajul Bisericii
       Penticostale Betel din localitate si indrumarea atenta a pastorului
       Dumitru Hutan, avand si sprijinul nemijlocit al autoritatilor locale, a
