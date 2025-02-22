@@ -47,7 +47,7 @@ sections:
         label: Mai multe informații...
         altText: ''
         url: /info/
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
