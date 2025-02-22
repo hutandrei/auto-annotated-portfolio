@@ -65,6 +65,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    title: dawdawd
   - elementId: ''
     colors: colors-f
     backgroundSize: full
