@@ -87,7 +87,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     title: ''
-    subtitle: Ovidiu D. Curpaș
+    subtitle: ''
   - type: DividerSection
     styles:
       self:
