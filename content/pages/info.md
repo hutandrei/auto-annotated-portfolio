@@ -65,7 +65,9 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    title: dawdawd
+    title: >-
+      Interviu cu Directorul Asociaţiei Creştine Casa Vindecării: Pastor Dumitru
+      Huţan
   - elementId: ''
     colors: colors-f
     backgroundSize: full
