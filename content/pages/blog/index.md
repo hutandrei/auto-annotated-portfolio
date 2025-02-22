@@ -1,10 +1,10 @@
 ---
 type: PostFeedLayout
-title: Blog
-colors: colors-a
+title: Media
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/freepik__upload__72068.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
