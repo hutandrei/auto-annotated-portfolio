@@ -42,8 +42,7 @@ bottomSections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/photo_2016-12-02_17-36-04.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
