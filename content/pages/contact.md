@@ -91,7 +91,7 @@ sections:
           - type: Link
             label: Twitter
             altText: ''
-            url: 'https://twitter.com/'
+            url: 'https://www.facebook.com/CasaVindecarii/?locale=ro_RO'
             showIcon: false
             icon: arrowRight
             iconPosition: right
