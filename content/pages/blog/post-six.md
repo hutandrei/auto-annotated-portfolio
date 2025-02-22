@@ -105,7 +105,7 @@ bottomSections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/background-6985230_1280.jpg
+  url: /images/3747.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
