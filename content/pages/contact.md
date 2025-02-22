@@ -186,7 +186,7 @@ sections:
           name: firstName
           label: Prenume
           hideLabel: true
-          placeholder: First Name
+          placeholder: Prenume
           width: 1/2
           isRequired: false
         - type: TextFormControl
