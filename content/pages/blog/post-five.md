@@ -7,7 +7,6 @@ author: content/data/team/doris-soto.json
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image5.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
