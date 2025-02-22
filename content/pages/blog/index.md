@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: Media
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
