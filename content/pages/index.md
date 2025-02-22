@@ -68,17 +68,15 @@ sections:
   - type: CtaSection
     title: 'Despre noi:'
     text: |
-      ASOCIATIA CRESTINA CASA VINDECARII - CAMPINA
+      *ASOCIATIA CRESTINA CASA VINDECARII - CAMPINA*
 
-      BCR COD SWIFT RNCBROBU (BIC)
+      BCR COD SWIFT **RNCBROBU** (BIC)
 
-      COD IBAN
+      **RO94RNCB0208104735400001** (RON)
 
-      RO94RNCB0208104735400001 (RON)
+      **RO13RNCB0208104735400004** (EURO)
 
-      RO13RNCB0208104735400004 (EURO)
-
-      RO40RNCB0208104735400003 (USD)
+      **RO40RNCB0208104735400003** (USD)
     actions: []
     colors: colors-f
     backgroundSize: inset
