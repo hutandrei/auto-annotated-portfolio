@@ -77,7 +77,16 @@ sections:
       **RO13RNCB0208104735400004** (EURO)
 
       **RO40RNCB0208104735400003** (USD)
-    actions: []
+    actions:
+      - type: Button
+        label: Doneaza
+        altText: ''
+        url: 'https://www.paypal.com/donate/?hosted_button_id=8C3YJUG6SLM9Q'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     colors: colors-f
     backgroundSize: inset
     elementId: ''
