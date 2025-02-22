@@ -49,7 +49,7 @@ sections:
         url: 'https://www.paypal.com/donate/?hosted_button_id=8C3YJUG6SLM9Q'
         showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
     media:
