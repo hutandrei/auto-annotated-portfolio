@@ -147,15 +147,7 @@ sections:
         title: ''
         subtitle: ''
         text: ''
-        actions:
-          - type: Link
-            label: Instagram
-            altText: ''
-            url: 'https://www.instagram.com/'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
