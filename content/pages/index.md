@@ -64,7 +64,7 @@ sections:
       caption: Caption of the image
       elementId: ''
     text: |+
-      ## **CUM TE POȚI IMPLICA?**
+      ****
 
   - type: CtaSection
     title: Cum te poti implica
