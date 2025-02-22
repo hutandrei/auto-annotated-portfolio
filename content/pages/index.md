@@ -10,6 +10,40 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - type: CtaSection
+    title: 'Despre noi:'
+    text: |
+      *ASOCIATIA CRESTINA CASA VINDECARII - CAMPINA*
+
+      BCR COD SWIFT **RNCBROBU** (BIC)
+
+      **RO94RNCB0208104735400001** (RON)
+
+      **RO13RNCB0208104735400004** (EURO)
+
+      **RO40RNCB0208104735400003** (USD)
+    actions: []
+    colors: colors-f
+    backgroundSize: inset
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-0
+          - pb-0
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - elementId: ''
     colors: colors-f
     backgroundSize: full
@@ -65,40 +99,6 @@ sections:
       șansa la un mediu creștin, reabilitare și încadrare în societate celor
       care doresc dar nu pot să fie schimbați.</div>
 
-  - type: CtaSection
-    title: 'Despre noi:'
-    text: |
-      *ASOCIATIA CRESTINA CASA VINDECARII - CAMPINA*
-
-      BCR COD SWIFT **RNCBROBU** (BIC)
-
-      **RO94RNCB0208104735400001** (RON)
-
-      **RO13RNCB0208104735400004** (EURO)
-
-      **RO40RNCB0208104735400003** (USD)
-    actions: []
-    colors: colors-f
-    backgroundSize: inset
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-0
-          - pb-0
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: QuoteSection
     quote: >
       *"Religia curată şi neîntinată înaintea lui Dumnezeu, Tatăl nostru, este
