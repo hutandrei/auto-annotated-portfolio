@@ -135,7 +135,15 @@ sections:
         styles:
           self:
             textAlign: left
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://www.facebook.com/CasaVindecarii/?locale=ro_RO'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     colors: colors-f
     columns: 3
     spacingX: 16
