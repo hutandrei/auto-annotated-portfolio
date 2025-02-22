@@ -82,8 +82,7 @@ sections:
         text: ''
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/462721674_8925587670819139_4286823781736952304_n.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
