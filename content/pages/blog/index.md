@@ -1,7 +1,7 @@
 ---
 type: PostFeedLayout
 title: Media
-colors: colors-c
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/3747.jpg
