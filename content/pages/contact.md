@@ -210,7 +210,7 @@ sections:
           placeholder: Tell me about your project
           width: full
           isRequired: true
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Trimite \U0001F680"
       elementId: sign-up-form
       styles:
         submitLabel:
