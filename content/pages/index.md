@@ -65,18 +65,6 @@ sections:
       șansa la un mediu creștin, reabilitare și încadrare în societate celor
       care doresc dar nu pot să fie schimbați.</div>
 
-
-      <div style="text-align: right"><sup>ASOCIATIA CRESTINA CASA VINDECARII -
-      CAMPINA
-
-      BCR COD SWIFT RNCBROBU (BIC)
-
-      RO94RNCB0208104735400001  (RON)</sup><sup>
-
-      RO13RNCB0208104735400004 (EURO)
-
-      RO40RNCB0208104735400003  (USD)</sup></div>
-
   - type: CtaSection
     title: Cum te poti implica
     text: |
