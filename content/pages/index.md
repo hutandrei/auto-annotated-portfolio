@@ -70,6 +70,10 @@ sections:
 
       ASOCIATIA CRESTINA CASA VINDECARII - CAMPINA
 
+      40RNCB0208104735400003 (USD)
+
+
+
       ```</div>
 
   - type: CtaSection
