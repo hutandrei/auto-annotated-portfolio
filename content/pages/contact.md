@@ -130,15 +130,7 @@ sections:
         title: ''
         subtitle: ''
         text: ''
-        actions:
-          - type: Link
-            label: Discord
-            altText: ''
-            url: 'https://discord.com/'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
