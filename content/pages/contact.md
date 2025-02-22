@@ -191,7 +191,7 @@ sections:
           isRequired: false
         - type: TextFormControl
           name: lastName
-          label: Last Name
+          label: Nume de familie
           hideLabel: true
           placeholder: Last Name
           width: 1/2
