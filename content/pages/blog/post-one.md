@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Alte activitati
-colors: colors-a
+colors: colors-b
 date: '2021-06-28'
 author: content/data/team/doris-soto.json
 excerpt: ''
