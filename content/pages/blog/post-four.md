@@ -20,7 +20,7 @@ bottomSections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/photo_2016-11-13_00-47-10.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
