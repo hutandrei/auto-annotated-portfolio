@@ -440,7 +440,7 @@ addTitleSuffix: true
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/aspecte_20110528_1455382526.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
