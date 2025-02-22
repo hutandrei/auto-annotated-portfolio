@@ -207,7 +207,7 @@ sections:
           name: message
           label: Scrie aici mesajul...
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Scrie aici mesajul...
           width: full
           isRequired: true
       submitLabel: "Trimite \U0001F680"
