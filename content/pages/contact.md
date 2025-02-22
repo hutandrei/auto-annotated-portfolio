@@ -65,7 +65,7 @@ sections:
         borderWidth: 1
   - type: FeaturedItemsSection
     title: ''
-    subtitle: 'Ne gasiti si aici:'
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: ''
