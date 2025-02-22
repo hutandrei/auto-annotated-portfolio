@@ -154,4 +154,4 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-Cateva din persoanele ajutate de-a lungul timpului
+Cateva din persoanele ajutate de-a lungul timpului.
