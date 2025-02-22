@@ -45,10 +45,7 @@ sections:
     title: >-
       Interviu cu Directorul Asociaţiei Creştine Casa Vindecării: Pastor Dumitru
       Huţan
-    subtitle: >-
-      “Religiunea curata si neintinata, inaintea lui Dumnezeu, Tatal nostru,
-      este sa cercetam pe orfani si pe vaduve in necazurile lor, si sa ne pazim
-      neintinati de lume.” Biblia – Iacov 1:27
+    subtitle: Ovidiu D. Curpaș
   - type: DividerSection
     styles:
       self:
