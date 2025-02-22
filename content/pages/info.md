@@ -133,6 +133,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: |
+      aa
   - type: DividerSection
     styles:
       self:
