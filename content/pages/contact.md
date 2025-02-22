@@ -104,15 +104,7 @@ sections:
         title: ''
         subtitle: ''
         text: ''
-        actions:
-          - type: Link
-            label: LinkedIn
-            altText: ''
-            url: 'https://www.linkedin.com/'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
