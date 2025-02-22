@@ -63,9 +63,12 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-    text: |+
-      ****
-
+    text: |
+      Suntem o asociație creștină care se ocupă cu reabilitarea
+      persoanelor care au crescut în mediul stradal. Cu o experiență de peste
+      25 de ani, dorim cu ajutorul lui Dumnezeu să oferim șansa la un mediu
+      creștin, reabilitare și încadrare în societate celor care doresc dar nu
+      pot să fie schimbați.
   - type: CtaSection
     title: Cum te poti implica
     text: |
