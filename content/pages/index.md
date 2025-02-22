@@ -68,26 +68,18 @@ sections:
 
   - type: CtaSection
     title: Cum te poti implica
-    text: >+
-      Dacă vrei să te implici financiar, apasă butonul de mai jos.
+    text: |
+      ASOCIATIA CRESTINA CASA VINDECARII - CAMPINA
 
+      BCR COD SWIFT RNCBROBU (BIC)
 
-      <form name="donate" netlify action="https\://www\.paypal.com/donate"
-      method="post" target="\_top">
+      COD IBAN
 
-      <input type="hidden" name="hosted\_button\_id" value="QLUSPTBD4T4CE" />
+      RO94RNCB0208104735400001 (RON)
 
-      <input type="image"
-      src="https\://www\.paypalobjects.com/en\_US/i/btn/btn\_donateCC\_LG.gif"
-      border="0" name="submit" title="PayPal - The safer, easier way to pay
-      online!" alt="Multumim !" />
+      RO13RNCB0208104735400004 (EURO)
 
-      <img alt="" border="0"
-      src="https\://www\.paypal.com/en\_US/i/scr/pixel.gif" width="1" height="1"
-      />
-
-      </form>
-
+      RO40RNCB0208104735400003 (USD)
     actions:
       - type: Button
         label: Doneaza
