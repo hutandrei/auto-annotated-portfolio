@@ -176,7 +176,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: ContactSection
-    title: Got an interesting project? Tell me more...
+    title: 'Ne puteti contacta si aici:'
     text: ''
     form:
       type: FormBlock
