@@ -4,7 +4,7 @@ title: Media
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/background-6985230_1280.jpg
+  url: /images/freepik__upload__72068.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
