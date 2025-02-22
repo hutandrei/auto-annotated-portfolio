@@ -4,7 +4,7 @@ title: Persoane asistate
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
-excerpt: ''
+excerpt: Cateva din persoanele ajutate de-a lungul timpului
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
