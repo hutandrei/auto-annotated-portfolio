@@ -53,6 +53,8 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
+    text: |
+      dqdqwdwqdwqdwqdwq
   - type: CtaSection
     title: Cum te poti implica
     text: >+
