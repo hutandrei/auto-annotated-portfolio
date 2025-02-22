@@ -70,8 +70,11 @@ sections:
       pot să fie schimbați.
 
 
-      <div style="text-align: right">`ASOCIATIA CRESTINA CASA VINDECARII -
-      CAMPINA`</div>
+      <div style="text-align: right">```
+
+      ASOCIATIA CRESTINA CASA VINDECARII - CAMPINA
+
+      ```</div>
 
 
       <div style="text-align: right">`BCR Cod SWIFT: RNCBROBU (BIC)Coduri
