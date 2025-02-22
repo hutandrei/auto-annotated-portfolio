@@ -58,21 +58,30 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-    text: |+
+    text: >+
       Suntem o asociație creștină care se ocupă cu reabilitarea
+
       persoanelor care au crescut în mediul stradal. Cu o experiență de peste
+
       25 de ani, dorim cu ajutorul lui Dumnezeu să oferim șansa la un mediu
+
       creștin, reabilitare și încadrare în societate celor care doresc dar nu
+
       pot să fie schimbați.
 
-      <div style="text-align: right">```
-      ASOCIATIA CRESTINA CASA VINDECARII - CAMPINA
+
+      <div style="text-align: right">ASOCIATIA CRESTINA CASA VINDECARII -
+      CAMPINA
+
       BCR Cod SWIFT: RNCBROBU (BIC)
+
       Coduri IBAN:
+
       RO94RNCB0208104735400001 (RON)
+
       RO13RNCB0208104735400004 (EURO)
-      RO40RNCB0208104735400003 (USD)
-      ```</div>
+
+      RO40RNCB0208104735400003 (USD)</div>
 
   - type: CtaSection
     title: Cum te poti implica
