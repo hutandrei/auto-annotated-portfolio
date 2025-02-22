@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 bottomSections:
   - type: MediaGallerySection
-    title: Gallery
+    title: Visine si Cirese
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
