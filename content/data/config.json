@@ -31,13 +31,6 @@
                 "label": "Facebook",
                 "url": "https://www.facebook.com/CasaVindecarii/?locale=ro_RO",
                 "icon": "facebook"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
             }
         ],
         "styles": {
