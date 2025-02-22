@@ -105,7 +105,7 @@ bottomSections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/3747.jpg
+  url: /images/freepik__upload__72068.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
