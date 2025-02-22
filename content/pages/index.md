@@ -66,7 +66,7 @@ sections:
       care doresc dar nu pot să fie schimbați.</div>
 
   - type: CtaSection
-    title: 'Despre noi:'
+    title: 'Donații:'
     text: |
       *ASOCIATIA CRESTINA CASA VINDECARII - CAMPINA*
 
