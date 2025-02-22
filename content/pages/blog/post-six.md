@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Conserve pentru iarna
-colors: colors-a
+colors: colors-b
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
 excerpt: >-
