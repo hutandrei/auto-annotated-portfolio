@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Cirese si Visine
-colors: colors-a
+colors: colors-b
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
