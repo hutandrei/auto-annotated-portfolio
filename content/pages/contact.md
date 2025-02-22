@@ -71,15 +71,6 @@ sections:
         title: ''
         subtitle: ''
         text: ''
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: ''
         featuredImage:
           type: ImageBlock
           url: /images/462721674_8925587670819139_4286823781736952304_n.jpg
