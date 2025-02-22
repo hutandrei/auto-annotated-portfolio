@@ -70,11 +70,18 @@ sections:
 
       ASOCIATIA CRESTINA CASA VINDECARII - CAMPINA
 
-      40RNCB0208104735400003 (USD)
+      BCR COD SWIFT RNCBROBU (BIC)
+
+      RO94RNCB0208104735400001 (RON)
+
+      RO13RNCB0208104735400004 (EURO)
+
+      RO40RNCB0208104735400003 (USD)
+
+      ```
 
 
-
-      ```</div>
+      </div>
 
   - type: CtaSection
     title: Cum te poti implica
