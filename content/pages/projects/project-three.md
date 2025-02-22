@@ -14,7 +14,9 @@ featuredImage:
 bottomSections:
   - type: MediaGallerySection
     title: Visine si Cirese
-    subtitle: This is the subtitle
+    subtitle: >-
+      Luna iunie în România este considerată ca un sezon al cireșelor și
+      vișinelor. La Centrul Creștin, am început culesul și conservarea lor. 
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
