@@ -193,7 +193,7 @@ sections:
           name: lastName
           label: Nume de familie
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Nume de Familie
           width: 1/2
           isRequired: false
         - type: EmailFormControl
