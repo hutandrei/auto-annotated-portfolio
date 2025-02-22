@@ -9,7 +9,7 @@ excerpt: >-
   Casa Vindecarii.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/photo5920395943050586541.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
