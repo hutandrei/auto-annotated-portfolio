@@ -19,7 +19,7 @@ sections:
           cercetam pe orfani si pe vaduve in necazurile lor, si sa ne pazim
           neintinati de lume.” Biblia – Iacov 1:27
         name: ''
-        title: CEO at Parks
+        title: ''
         image:
           type: ImageBlock
           url: /images/page.jpg
