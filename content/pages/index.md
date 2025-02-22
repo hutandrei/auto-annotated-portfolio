@@ -42,7 +42,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 400
-        textDecoration: underline
       text:
         textAlign: left
       actions:
