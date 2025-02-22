@@ -4,7 +4,9 @@ title: Conserve pentru iarna
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  S-a inceput conservarea alimentelor pentru iarna 2017-2018 la Centrul Crestin
+  Casa Vindecarii.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
