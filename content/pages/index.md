@@ -70,13 +70,13 @@ sections:
       pot să fie schimbați.
 
 
-      <div style="text-align: right">ASOCIATIA CRESTINA CASA VINDECARII -
-      CAMPINA</div>
+      <div style="text-align: right">`ASOCIATIA CRESTINA CASA VINDECARII -
+      CAMPINA`</div>
 
 
-      <div style="text-align: right">BCR Cod SWIFT: RNCBROBU (BIC)Coduri
+      <div style="text-align: right">`BCR Cod SWIFT: RNCBROBU (BIC)Coduri
       IBAN:RO94RNCB0208104735400001 (RON)RO13RNCB0208104735400004
-      (EURO)RO40RNCB0208104735400003 (USD)</div>
+      (EURO)RO40RNCB0208104735400003 (USD)`</div>
 
   - type: CtaSection
     title: Cum te poti implica
