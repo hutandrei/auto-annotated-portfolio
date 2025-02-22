@@ -46,7 +46,7 @@ sections:
       - type: Button
         label: Doneaza
         altText: ''
-        url: /Info/
+        url: /info/
         showIcon: true
         icon: arrowRight
         iconPosition: right
