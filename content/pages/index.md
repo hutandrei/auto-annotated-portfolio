@@ -44,7 +44,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Doneaza
+        label: Mai multe informații...
         altText: ''
         url: /info/
         showIcon: true
