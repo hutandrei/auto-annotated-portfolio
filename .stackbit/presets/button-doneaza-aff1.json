@@ -1,0 +1,28 @@
+{
+    "model": "Button",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Doneaza",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Butoane"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Doneaza",
+                "altText": "",
+                "url": "https://www.paypal.com/donate/?hosted_button_id=8C3YJUG6SLM9Q",
+                "showIcon": true,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            "thumbnail": "images/button-doneaza-aff1.png"
+        }
+    ]
+}
