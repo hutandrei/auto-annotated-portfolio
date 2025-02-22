@@ -121,8 +121,15 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |
-      aa
+    text: >
+      O comunitate de oameni vrednici de toata lauda sub patronajul Bisericii
+      Penticostale Betel din localitate si indrumarea atenta a pastorului
+      Dumitru Hutan, avand si sprijinul nemijlocit al autoritatilor locale, a
+      reusit sa insenineze viata multor tineri crescuti in orfelinate care dupa
+      ce au devenit majori erau sortiti esecului si disperarii. Acestora li s-a
+      oferit sansa de a se realiza profesional, dar si de a se implini pe plan
+      spiritual in “Casa vindecarii” – un proiect de suflet, pentru suflet, care
+      merita toata aprecierea si recunostinta noastra!
   - type: DividerSection
     styles:
       self:
