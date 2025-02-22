@@ -13,9 +13,11 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        quote: |
+          “Religiunea
+          curata si neintinata, inaintea lui Dumnezeu, Tatal nostru, este sa
+          cercetam pe orfani si pe vaduve in necazurile lor, si sa ne pazim
+          neintinati de lume.” Biblia – Iacov 1:27
         name: John Doe
         title: CEO at Parks
         image:
