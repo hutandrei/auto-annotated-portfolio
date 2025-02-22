@@ -90,7 +90,7 @@ sections:
     subtitle: ''
   - type: HeroSection
     title: ''
-    subtitle: This is my info—I'm sharing it all this wi
+    subtitle: ''
     actions: []
     media:
       type: ImageBlock
