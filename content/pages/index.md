@@ -66,7 +66,7 @@ sections:
       care doresc dar nu pot să fie schimbați.</div>
 
   - type: CtaSection
-    title: Cum te poti implica
+    title: 'Despre noi:'
     text: |
       ASOCIATIA CRESTINA CASA VINDECARII - CAMPINA
 
