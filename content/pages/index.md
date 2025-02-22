@@ -67,7 +67,7 @@ sections:
       <input type="image"
       src="https\://www\.paypalobjects.com/en\_US/i/btn/btn\_donateCC\_LG.gif"
       border="0" name="submit" title="PayPal - The safer, easier way to pay
-      online!" alt="Apasa aici!" />
+      online!" alt="Multumim !" />
 
       <img alt="" border="0"
       src="https\://www\.paypal.com/en\_US/i/scr/pixel.gif" width="1" height="1"
