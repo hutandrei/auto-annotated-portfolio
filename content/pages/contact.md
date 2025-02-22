@@ -5,7 +5,11 @@ sections:
   - type: HeroSection
     title: Contact
     subtitle: Asociația Creștină „Casa Vindecării”
-    text: "<div style=\"text-align: left\">Strada: Calea Doftanei nr. 112 BOras: CampinaJudet: PrahovaCod Postal: 105600Romania0755 888 000http\\://www\\.betelcampina.ro\n\t\t\n\t\n\n\n\t\t\n\t\n\t\t\n\n\n\n\t\n\t\t0244 333 792\t\t\n\n\n\n\t\n\t\t0755 888 000 | 0756 999 018 (Hutan Rut)\t\t\n\n\n\n\t\n\t\t\\[\n\t\thttp\\://www\\.betelcampina.com]\\(https\\://web.archive.org/web/20200924202051/http\\://www\\.betelcampina.com/)\n\t</div>\n\n"
+    text: >+
+      <div style="text-align: left">Strada: Calea Doftanei nr. 112 BOras:
+      CampinaJudet: PrahovaCod Postal: 105600Romania0755 888
+      000http\://www\.betelcampina.ro</div>
+
     actions: []
     media:
       type: ImageBlock
