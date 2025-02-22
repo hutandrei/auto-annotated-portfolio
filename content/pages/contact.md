@@ -23,7 +23,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/logocasa.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
