@@ -8,6 +8,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   altText: Post thumbnail image
+  url: /images/iepuri-1.jpg
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
