@@ -18,7 +18,7 @@ backgroundImage:
   opacity: 100
 bottomSections:
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
