@@ -184,7 +184,7 @@ sections:
       fields:
         - type: TextFormControl
           name: firstName
-          label: First Name
+          label: Prenume
           hideLabel: true
           placeholder: First Name
           width: 1/2
