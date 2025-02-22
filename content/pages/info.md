@@ -52,6 +52,7 @@ sections:
     title: >-
       Interviu cu Directorul Asociaţiei Creştine Casa Vindecării: Pastor Dumitru
       Huţan
+    subtitle: Octavian D. Curpaș
   - elementId: ''
     colors: colors-f
     backgroundSize: full
