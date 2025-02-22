@@ -13,7 +13,7 @@ featuredImage:
   altText: Post thumbnail image
 bottomSections:
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
