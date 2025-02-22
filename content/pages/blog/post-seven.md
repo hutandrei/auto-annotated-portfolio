@@ -11,7 +11,7 @@ featuredImage:
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
-  url: /images/gallery-3.jpg
+  url: /images/3747.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
