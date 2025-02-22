@@ -70,18 +70,18 @@ sections:
       pot să fie schimbați.
 
 
-      <div style="text-align: right">ASOCIATIA CRESTINA CASA VINDECARII -
+      <div style="text-align: right">> ASOCIATIA CRESTINA CASA VINDECARII -
       CAMPINA
 
-      BCR Cod SWIFT: RNCBROBU (BIC)
+      > BCR Cod SWIFT: RNCBROBU (BIC)
 
-      Coduri IBAN:
+      > Coduri IBAN:
 
-      RO94RNCB0208104735400001 (RON)
+      > RO94RNCB0208104735400001 (RON)
 
-      RO13RNCB0208104735400004 (EURO)
+      > RO13RNCB0208104735400004 (EURO)
 
-      RO40RNCB0208104735400003 (USD)</div>
+      > RO40RNCB0208104735400003 (USD)</div>
 
   - type: CtaSection
     title: Cum te poti implica
