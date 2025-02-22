@@ -10,6 +10,49 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: Casa vindecării
+    subtitle: |-
+      Suntem o asociație creștină care se ocupă cu reabilitarea 
+      persoanelor care au crescut în mediul stradal. Cu o experiență de peste 
+      25 de ani, dorim cu ajutorul lui Dumnezeu să oferim șansa la un mediu 
+      creștin, reabilitare și încadrare în societate celor care doresc dar nu 
+      pot să fie schimbați.
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-32
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/aspecte_20110528_1455382526.jpg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: CtaSection
     title: Cum te poti implica
     text: >+
@@ -63,49 +106,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: Casa vindecării
-    subtitle: |-
-      Suntem o asociație creștină care se ocupă cu reabilitarea 
-      persoanelor care au crescut în mediul stradal. Cu o experiență de peste 
-      25 de ani, dorim cu ajutorul lui Dumnezeu să oferim șansa la un mediu 
-      creștin, reabilitare și încadrare în societate celor care doresc dar nu 
-      pot să fie schimbați.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-32
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/aspecte_20110528_1455382526.jpg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - type: QuoteSection
     quote: >
       *"Religia curată şi neîntinată înaintea lui Dumnezeu, Tatăl nostru, este
