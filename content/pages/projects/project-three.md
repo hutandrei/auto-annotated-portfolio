@@ -5,9 +5,8 @@ colors: colors-a
 date: '2017-06-22'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Luna iunie în România este considerată ca un sezon al cireșelor și vișinelor.
+  La Centrul Creștin, am început culesul și conservarea lor. 
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
